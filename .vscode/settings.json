@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.exponential_smoothingc": "c",
+        "stdlib.h": "c"
+    }
+}
